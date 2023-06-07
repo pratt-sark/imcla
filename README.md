@@ -5,17 +5,17 @@
 
 1. **Choose a dataset**: The first step in this project is to choose a dataset to train your neural network. Here, I used the CIFAR-10 dataset, which consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class.
 
-2. Preprocess the dataset: Before training the neural network, you need to preprocess the dataset. This includes normalizing the pixel values, splitting the dataset into training and validation sets, and converting the labels into one-hot vectors.
+2. **Preprocess the dataset**: Before training the neural network, you need to preprocess the dataset. This includes normalizing the pixel values, splitting the dataset into training and validation sets, and converting the labels into one-hot vectors.
 
-3. Build the neural network: The next step is to build the neural network architecture. You can start with a simple architecture like a single hidden layer with 100 neurons and a softmax output layer.
+3. **Build the neural network**: The next step is to build the neural network architecture. You can start with a simple architecture like a single hidden layer with 100 neurons and a softmax output layer.
 
-4. Train the neural network: Once you have built the neural network architecture, you can start training it on the preprocessed dataset. You can use backpropagation and stochastic gradient descent to update the weights and biases of the neural network.
+4. **Train the neural network**: Once you have built the neural network architecture, you can start training it on the preprocessed dataset. You can use backpropagation and stochastic gradient descent to update the weights and biases of the neural network.
 
-5. Evaluate the neural network: After training the neural network, you can evaluate its performance on the validation set. You can use metrics like accuracy, precision, and recall to measure the performance of the neural network.
+5. **Evaluate the neural network**: After training the neural network, you can evaluate its performance on the validation set. You can use metrics like accuracy, precision, and recall to measure the performance of the neural network.
 
-6. Fine-tune the neural network: Based on the evaluation results, you can fine-tune the neural network architecture by adding more hidden layers, increasing the number of neurons in the hidden layers, or changing the activation functions.
+6. **Fine-tune the neural network**: Based on the evaluation results, you can fine-tune the neural network architecture by adding more hidden layers, increasing the number of neurons in the hidden layers, or changing the activation functions.
 
-7. Test the neural network: Finally, you can test the neural network on the test set to see how well it generalizes to new data.
+7. **Test the neural network**: Finally, you can test the neural network on the test set to see how well it generalizes to new data.
 
 This project will help you get started with neural networks and image classification. It is a great way to learn the basics of machine learning and gain hands-on experience with real-world datasets.
 
