@@ -3,7 +3,7 @@
 
 ### Project Statement
 
-1. Choose a dataset: The first step in this project is to choose a dataset to train your neural network. Here, I used the CIFAR-10 dataset, which consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class.
+1. **Choose a dataset**: The first step in this project is to choose a dataset to train your neural network. Here, I used the CIFAR-10 dataset, which consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class.
 
 2. Preprocess the dataset: Before training the neural network, you need to preprocess the dataset. This includes normalizing the pixel values, splitting the dataset into training and validation sets, and converting the labels into one-hot vectors.
 
